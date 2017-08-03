@@ -27,6 +27,7 @@ void USART1_Config()
 	
 //	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB|RCC_APB2Periph_AFIO, ENABLE);
 	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB|RCC_APB2Periph_GPIOD, ENABLE);
+		RCC_APB1PeriphClockCmd(RCC_APB1Periph_USART3, ENABLE);
 	
 	
 //	GPIO_PinRemapConfig(GPIO_FullRemap_USART3, ENABLE);

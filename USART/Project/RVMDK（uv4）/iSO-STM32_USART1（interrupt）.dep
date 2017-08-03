@@ -92,7 +92,7 @@ I (..\..\Libraries\FWlib\inc\stm32f10x_usart.h)(0x59818AFF)
 I (..\..\Libraries\FWlib\inc\misc.h)(0x59818AFF)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
 F (..\..\User\stm32f10x_it.h)(0x536651D8)()
-F (..\..\User\usart\bsp_usart1.c)(0x5981EC8A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\Libraries\CMSIS -I..\..\User -I..\..\Libraries\FWlib\inc -I..\..\User\usart -I..\..\User\Led -I..\..\User\Key-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\..\output\bsp_usart1.o --omf_browse ..\..\output\bsp_usart1.crf --depend ..\..\output\bsp_usart1.d)
+F (..\..\User\usart\bsp_usart1.c)(0x5981EFE1)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\Libraries\CMSIS -I..\..\User -I..\..\Libraries\FWlib\inc -I..\..\User\usart -I..\..\User\Led -I..\..\User\Key-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\..\output\bsp_usart1.o --omf_browse ..\..\output\bsp_usart1.crf --depend ..\..\output\bsp_usart1.d)
 I (..\..\User\usart\bsp_usart1.h)(0x59818AFF)
 I (..\..\Libraries\CMSIS\stm32f10x.h)(0x536651D8)
 I (..\..\Libraries\CMSIS\core_cm3.h)(0x536651D8)
